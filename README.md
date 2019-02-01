@@ -1,4 +1,16 @@
 # SSELBP_ICASSP2017
+Publication: Y. Hu, Z. Long, G. AlRegib, “Scale Selective Extended Local Binary Pattern for Texture Classification,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2017), pp. 1413-1417, 2017.
+
+Bib: 
+@inproceedings{hu2017scale,
+  title={Scale selective extended local binary pattern for texture classification},
+  author={Hu, Yuting and Long, Zhiling and AlRegib, Ghassan},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2017 IEEE International Conference on},
+  pages={1413--1417},
+  year={2017},
+  organization={IEEE}
+}
+
 Objective:
 The codes are used to verify the performance of the scale selective extended local binary pattern (SSELBP) on the classification accuracy on the database of KTH-TIPS (under KTH_TIPS directory).
 
