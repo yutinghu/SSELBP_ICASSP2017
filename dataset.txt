@@ -1,0 +1,6 @@
+../Outex_TC_00010/
+../Outex_TC_00010/
+../KTH_TIPS/
+../KTH_TIPS/
+../Outex_TC_00012/
+../Outex_TC_00012/
